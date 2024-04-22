@@ -17,26 +17,25 @@ Sleek Streamlit Interface: Interact effortlessly with our user-friendly interfac
 <h3>🚀 Get Started in Seconds</h3>
 Ready to revolutionize your hiring process? Follow these simple steps:
 
-- Clone this Repository: Get the code on your local machine.
-
+- <b>Clone this Repository:</b> Get the code on your local machine.
     <div class="code-block">
     <button class="copy-button" onclick="copyCode(1)"></button>
-    <pre><code> git clone https://github.com/yourusername/resume-screening-app.git </code></pre>
+    <pre><code>https://github.com/PriyankaJain-1998/ResumeScreening.git </code></pre>
     </div>
    
-- Install Dependencies: Get up and running in no time.
-  <div class="code-block">
-  <button class="copy-button" onclick="copyCode(1)"></button>
-  <pre><code> pip install -r requirements.txt</code></pre>
-  </div>
+- <b>Install Dependencies:</b> Get up and running in no time.
+      <div class="code-block">
+      <button class="copy-button" onclick="copyCode(1)"></button>
+      <pre><code> pip install -r requirements.txt</code></pre>
+      </div>
 
-- Run the App using terminal: Fire up the app using Streamlit.
-  <div class="code-block">
-  <button class="copy-button" onclick="copyCode(1)"></button>
-  <pre><code>streamlit run app.py</code></pre>
-  </div>
+- <b>Run the App using terminal:</b> Fire up the app using Streamlit.
+      <div class="code-block">
+      <button class="copy-button" onclick="copyCode(1)"></button>
+      <pre><code>streamlit run app.py</code></pre>
+      </div>
 
-- Upload Resumes: Dive in and experience the power of AI-driven resume screening.
+- <b>Upload Resumes:</b> Dive in and experience the power of AI-driven resume screening.
 
 
 <h3>🚀 Support & Feedback</h3>
